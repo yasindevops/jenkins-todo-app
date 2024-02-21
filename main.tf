@@ -21,7 +21,7 @@ variable "tags" {
 }
 
 variable "user" {
-  default = "yasin"
+  default = "clarusway"
 }
 
 resource "aws_instance" "managed_nodes" {
